@@ -23,20 +23,20 @@
 
       <div class="trigger">
         <!-- About -->
-        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">about</a>
+        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">About</a>
 
         <!-- Blog -->
-        <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a>
+        <!-- <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">Blog</a> -->
 
         <!-- Pages -->
-        {% for page in site.pages %}
+        <!-- {% for page in site.pages %}
           {% if page.title and page.url != "/" %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
 
         <!-- CV link -->
-        <!-- <a class="page-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">vitae</a> -->
+        <a class="page-link" href="{{ '/assets/pdf/emanuele_rossi_cv.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>
 
       </div>
     </nav>
