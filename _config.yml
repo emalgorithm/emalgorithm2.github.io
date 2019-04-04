@@ -33,8 +33,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: Machine Learning Bits
+blog_description: Simple ideas from my day-to-day research and projects
 
 # Pagination
 paginate: 4
