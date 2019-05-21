@@ -18,9 +18,9 @@ last_updated: # leave blank if you don't want to display last updated
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: emalgorithm
-twitter_username: # your Twitter handle
+twitter_username: emaros96
 linkedin_username: emanuele-rossi
-scholar_userid: # your Google Scholar ID
+scholar_userid: DHlkBOYAAAAJ
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -50,7 +50,7 @@ text:
 disqus_shortname: al-folio # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
+show_social_icons:  true
 enable_anchorjs:    false
 enable_katex:       true
 
@@ -91,7 +91,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Rossi
 
   style: apa
   locale: en
