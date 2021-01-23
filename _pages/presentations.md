@@ -2,7 +2,9 @@
 layout: page
 title: Presentations
 permalink: /presentations/
-description: Collection of some research presentations I have given in the past.
+description: Collection of some presentations and talks I have given in the past.
 ---
 
+- **2021/01/22**: "*Dynamic Graphs and Temporal Graph Networks*" at the University of Liverpool, Department of Computer Science. \[[Slides](../assets/pdf/TGN_2021_01_22.pdf)\]
+- **2021/01/14**: "*My journey, my research at Twitter and Imperial College, and my work at LeadTheFuture*" with [The Smarter Podcast](https://italia-podcast.it/podcast/smarter-podcast) \[[Video](https://www.youtube.com/watch?v=x4CeQ3S_DCA) (in Italian)\]
 - **2020/07/21**: "*TGN: Temporal Graph Networks*" at [AISC](https://ai.science/) \[[Slides](../assets/pdf/tgn_aisc_2020.pdf)\]\[[Video](https://www.youtube.com/watch?v=W1GvX2ZcUmY)\]
