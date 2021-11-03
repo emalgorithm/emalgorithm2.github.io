@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: Research Interests & Publications
+permalink: /research/
+title: Research
 # description: List of my publications in reversed chronological order. 
 years: [2021, 2020, 2019]
 ---
