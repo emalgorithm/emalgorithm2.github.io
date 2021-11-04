@@ -1,7 +1,0 @@
----
-layout: post
-title:  Temporal Graph Networks
-date:   2020-07-27 16:40:16
-description: Deep Learning on Dynamic Graphs
----
-The article has been published on Medium and can be found [here](https://towardsdatascience.com/temporal-graph-networks-ab8f327f2efe).

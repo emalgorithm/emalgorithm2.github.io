@@ -1,7 +1,0 @@
----
-layout: post
-title:  Simple Scalable Graph Neural Networks
-date:   2020-08-08 16:40:16
-description: Deep Learning on Giant Graphs
----
-The article has been published on Medium and can be found [here](https://towardsdatascience.com/simple-scalable-graph-neural-networks-7eb04f366d07).
